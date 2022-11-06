@@ -1,0 +1,43 @@
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+  }
+  
+  .dark-background {
+    background-color: #000000;
+  }
+  
+  .light-background {
+    background-color: #ffffff;
+  }
+  
+  .not-found-img {
+    width: 30%;
+    height: 50%;
+    margin-top: 60px;
+  }
+  
+  .not-found-dark-text {
+    color: #000000;
+    font-size: 30px;
+  }
+  
+  .not-found-light-text {
+    color: #ffffff;
+    font-size: 40px;
+  }
+  
+  .not-found-dark-para-text {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .not-found-light-para-text {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+  }
